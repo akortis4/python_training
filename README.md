@@ -1,2 +1,2 @@
-# python_trainining
+# python_training
 Houses files for python training.
